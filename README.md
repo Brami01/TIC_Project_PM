@@ -31,7 +31,11 @@ Es necesario realizar preguntas para conocer la situación y aprender como resol
 Los datasets que se emplearan provienen de la página recomendada Kaggle:
 
 > [PdM_telemetry](https://azuremlsampleexperiments.blob.core.windows.net/datasets/PdM_telemetry.csv)
+
 > [PdM_errors](https://azuremlsampleexperiments.blob.core.windows.net/datasets/PdM_errors.csv)
+
 > [PdM_maint](https://azuremlsampleexperiments.blob.core.windows.net/datasets/PdM_maint.csv)
+
 > [PdM_failures](https://azuremlsampleexperiments.blob.core.windows.net/datasets/PdM_failures.csv)
+
 > [PdM_machines](https://azuremlsampleexperiments.blob.core.windows.net/datasets/PdM_machines.csv)
