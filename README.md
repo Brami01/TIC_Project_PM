@@ -1,7 +1,8 @@
 # Topicos selectos en TIC
  ***Grupo 4***
- **Ricardo Fernandez**
- **Brami Prudencio**
+
+ **Ricardo Fernandez**,
+ **Brami Prudencio** y
  **Pablo Rivas**
  
 # Mantenimiento Predictivo Basado en Datos de Equipamiento de Microsoft Azure 
