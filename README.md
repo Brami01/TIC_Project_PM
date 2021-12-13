@@ -29,7 +29,8 @@ Es necesario realizar preguntas para conocer la situación y aprender como resol
 
 ## Datasets 
 
-Los datasets que se emplearan provienen de la página recomendada Kaggle:
+Los datasets que se emplearan provienen de la página recomendada [Kaggle](https://www.kaggle.com/arnabbiswas1/microsoft-azure-predictive-maintenance)
+:
 
 > [PdM_telemetry](https://azuremlsampleexperiments.blob.core.windows.net/datasets/PdM_telemetry.csv)
 
