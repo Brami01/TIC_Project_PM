@@ -17,7 +17,7 @@ Es necesario realizar preguntas para conocer la situación y aprender como resol
 
 * ¿Qué modelo de equipamiento son los mas propensos a fallar?
 
-* ¿Cuáles son las causas mas comunes que provocan los fallos y con que piezas se tienden a reemplazar?
+* ¿Cuáles son las causas mas comúnes que provocan los fallos y qué componentes se tienden a reemplazar?
 
 * ¿Existe relación entre las fechas de los fallos con algun evento en especifico? Por ejemplo un apagon masivo, en cuyo caso, ¿Qué información podría proveer?
 
@@ -25,7 +25,8 @@ Es necesario realizar preguntas para conocer la situación y aprender como resol
 
 * ¿Qué relacion existe entre las variables de telemetria? Siendo este análisis el más importante, ¿Podemos encontrar las relaciones pertinentes entre las fallas y las variables de telemetria que corresponden? ¿Cómo podríamos identificar las irregularidades para predecir que va a fallar a futuro?
 
-(Posiblemente las preguntas siguientes se modifiquen o aumenten)
+* ¿Se puede clasificar el modelo de las máquinas a partir de los datos de telemetria, errores y fallos ? ¿Siguen algun patron al momento de tener un fallo?
+
 
 ## Datasets 
 
