@@ -23,9 +23,9 @@ Es necesario realizar preguntas para conocer la situación y aprender como resol
 
 * ¿Tendrá relación la cantidad de años en servicio y el promedio de fallos en dicho tiempo? Sera posible que a medida que más envejezca, más propenso sea a tener errores o seguira igual.
 
-* ¿Qué relacion existe entre las variables de telemetria? Siendo este análisis el más importante, ¿Podemos encontrar las relaciones pertinentes entre las fallas y las variables de telemetria que corresponden? ¿Cómo podríamos identificar las irregularidades para predecir que va a fallar a futuro?
+* ¿Qué relacion existe entre las variables de telemetria? Siendo este análisis el más importante, ¿Podemos encontrar las relaciones pertinentes entre las fallas y las variables de telemetria que corresponden?
 
-* ¿Se puede clasificar el modelo de las máquinas a partir de los datos de telemetria, errores y fallos ? ¿Siguen algun patron al momento de tener un fallo?
+* ¿Se puede clasificar el modelo de las máquinas a partir de los datos de telemetria, errores y fallos? 
 
 
 ## Datasets 
